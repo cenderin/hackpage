@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/SnJedi/hackpage/issues"
   },
-  "homepage": "https://github.com/SnJedi/hackpage"
+  "homepage": "https://github.com/SnJedi/hackpage",
+  "scripts": { "preinstall" : "cd Compositive/ && npm install" }
 }
