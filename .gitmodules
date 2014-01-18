@@ -1,0 +1,4 @@
+[submodule "Compositive"]
+  path = Compositive
+  url = git://github.com/.com:alexdavid/Compositive.git
+  url = https://github.com/alexdavid/Compositive.git
