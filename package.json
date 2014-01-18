@@ -15,9 +15,5 @@
   "bugs": {
     "url": "https://github.com/SnJedi/hackpage/issues"
   },
-  "homepage": "https://github.com/SnJedi/hackpage",
-  "scripts": {
-    "preinit" : "cd Compositive/ && npm install",
-    "start" : "node server.coffee"
-  }
+  "homepage": "https://github.com/SnJedi/hackpage"
 }
