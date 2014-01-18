@@ -1,0 +1,3 @@
+[submodule "Compositive"]
+	path = Compositive
+	url = git@github.com:alexdavid/Compositive.git
