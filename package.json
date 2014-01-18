@@ -1,0 +1,19 @@
+{
+  "name": "hackpage",
+  "version": "0.0.2",
+  "description": "my hackpage",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SnJedi/hackpage.git"
+  },
+  "author": "sean hagstrom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SnJedi/hackpage/issues"
+  },
+  "homepage": "https://github.com/SnJedi/hackpage"
+}
