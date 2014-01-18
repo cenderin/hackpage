@@ -1,1 +1,1 @@
-web: cd Compositive/ && npm install && cd ../ && node server.coffee
+web: node server.coffee
