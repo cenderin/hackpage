@@ -1,5 +1,5 @@
 require('coffee-script')
-Compositive = require('./Compositive/src/compositive.coffee')
+Compositive = require('./node_modules/compo2/src/compositive.coffee')
 
 compo = new Compositive
 port = process.env.PORT || 3000
