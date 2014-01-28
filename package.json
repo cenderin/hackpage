@@ -4,7 +4,7 @@
   "description": "my hackpage",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "postinstall": "cd node_modules/compo2/ && npm install && cd ../../"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
     "url": "https://github.com/SnJedi/hackpage/issues"
   },
   "homepage": "https://github.com/SnJedi/hackpage",
-  "scripts": { "preinstall" : "cd Compositive/ && npm install" }
+  "dependencies": {
+    "compositive": "git://github.com/alexdavid/Compositive.git#master",
+    "coffee-script": "~1.6.3"
+  }
 }
