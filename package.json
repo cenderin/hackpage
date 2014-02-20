@@ -4,7 +4,7 @@
   "description": "my hackpage",
   "main": "app.js",
   "scripts": {
-    "postinstall": "cd node_modules/compo2/ && npm install && cd ../../"
+    "postinstall": "cd ./node_modules/compo2/ && npm install && cd ../../"
   },
   "repository": {
     "type": "git",
