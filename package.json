@@ -3,9 +3,7 @@
   "version": "0.0.2",
   "description": "my hackpage",
   "main": "app.js",
-  "scripts": {
-    "postinstall": "cd node_modules/compo2/ && npm install && cd ../../"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git://github.com/SnJedi/hackpage.git"
@@ -17,7 +15,7 @@
   },
   "homepage": "https://github.com/SnJedi/hackpage",
   "dependencies": {
-    "compositive": "git://github.com/alexdavid/Compositive.git#master",
+    "compositive": "git://github.com/alexdavid/Compositive#master",
     "coffee-script": "~1.6.3"
   }
 }
