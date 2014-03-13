@@ -15,7 +15,7 @@
   },
   "homepage": "https://github.com/SnJedi/hackpage",
   "dependencies": {
-    "compositive": "git://github.com/alexdavid/Compositive#master",
+    "compositive": "git://github.com/SnJedi/Compositive.git#master",
     "coffee-script": "~1.6.3"
   }
 }
